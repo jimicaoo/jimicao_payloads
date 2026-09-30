@@ -27,11 +27,19 @@
     },
     {
       "name": "host psm relapse",
-      "filename": "Host-PSM-ReLapse-v1.2.2.elf",
-      "url": "https://github.com/ps4macedo/ps51360/releases/download/relapse-v1.2.2/Host-PSM-ReLapse-v1.2.2-instala-host-pt.elf",
-      "version": "relapse-v1.2.2",
+      "filename": "Host-PSM-ReLapse_instala-host-en_v1.2.3.elf",
+      "url": "https://github.com/ps4macedo/ps51360/releases/download/relapse-v1.2.3/Host-PSM-ReLapse-v1.2.3-instala-host-en.elf",
+      "version": "v1.2.3",
       "category": "Loaders",
-      "checksum": "e91be7a6644389bd6ec762b96601bfa7774b6463451944c9d69f0827fecd0d92"
+      "checksum": "a86791bf23c7efc5712eb6ef8df23a17b542cae07d72ca1feb0ea85b18e33c12"
+    },
+    {
+      "name": "host psm relapse",
+      "filename": "Host-PSM-ReLapse_instala-host-pt_v1.2.3.elf",
+      "url": "https://github.com/ps4macedo/ps51360/releases/download/relapse-v1.2.3/Host-PSM-ReLapse-v1.2.3-instala-host-pt.elf",
+      "version": "v1.2.3",
+      "category": "Loaders",
+      "checksum": "27113c62b54dce05ff595116237c96c338d9be417567285becd64636b26d2f5f"
     },
     {
       "name": "Webkit-Autoloader-Installer",
@@ -64,6 +72,14 @@
       "version": "v1.0.0",
       "category": "Utilities & Tools",
       "checksum": "8162e9c0988e0e69d506840d3ba0a239fdbc5fbea60517cfaa6f820b23cd96f4"
+    },
+    {
+      "name": "pizza hen",
+      "filename": "PIZZA-HEN_v2.00.elf",
+      "url": "https://github.com/Michele-M-Media/PIZZA-HEN/releases/download/v2.00/PIZZA-HEN-v2.00.elf",
+      "version": "v2.00",
+      "category": "System & Jailbreak",
+      "checksum": "8535d399612d61c50a528b2ae416f2fc3ccfb7480296df99c17302583fb3e345"
     }
   ]
 }
