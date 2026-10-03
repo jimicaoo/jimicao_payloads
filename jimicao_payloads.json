@@ -1,15 +1,6 @@
-<<<<<<< HEAD
 {
   "name": "Jimicao Payloads",
   "payloads": [
-    {
-      "name": "game compressor",
-      "filename": "game-compressor_v1.0.4.elf",
-      "url": "https://github.com/juma-sayeh/PS5-Game-Compressor/releases/download/v1.0.4/game-compressor.elf",
-      "version": "v1.0.4",
-      "category": "Utilities & Tools",
-      "checksum": "e55e90aaade13b6e0d4316c1597ef90a21b67a06475c3e25de054224bc1e941b"
-    },
     {
       "name": "pegasus dl",
       "filename": "pegasus_dl_v1.10.1.elf",
@@ -17,6 +8,14 @@
       "version": "v1.10.1",
       "category": "Utilities & Tools",
       "checksum": "b24fdc62fc6cad14684b214a9c5be6c1221585afbf9493e387ab90f9dee21138"
+    },
+    {
+      "name": "spectrum library",
+      "filename": "SpectrumLibrary_v1.4.8.elf",
+      "url": "https://github.com/Phoenixx1202/Spectrum-Library/releases/download/1.4.8/SpectrumLibrary_1.4.8.elf",
+      "version": "1.4.8",
+      "category": "Utilities & Tools",
+      "checksum": "5d1372d48f76167e3f9e24b335cf571ea6e4b3960e6b7202d2802b0f78c3a519"
     },
     {
       "name": "prospero manager",
@@ -27,60 +26,6 @@
       "checksum": "e7a6bb544adb2fb2a61aa9cc83b0ad15f70b32d7511a3de0f1fb88812f11983c"
     },
     {
-      "name": "host psm relapse",
-      "filename": "Host-PSM-ReLapse_instala-host-en_v1.2.3.elf",
-      "url": "https://github.com/ps4macedo/ps51360/releases/download/relapse-v1.2.3/Host-PSM-ReLapse-v1.2.3-instala-host-en.elf",
-      "version": "v1.2.3",
-      "category": "Loaders",
-      "checksum": "a86791bf23c7efc5712eb6ef8df23a17b542cae07d72ca1feb0ea85b18e33c12"
-    },
-    {
-      "name": "host psm relapse",
-      "filename": "Host-PSM-ReLapse_instala-host-pt_v1.2.3.elf",
-      "url": "https://github.com/ps4macedo/ps51360/releases/download/relapse-v1.2.3/Host-PSM-ReLapse-v1.2.3-instala-host-pt.elf",
-      "version": "v1.2.3",
-      "category": "Loaders",
-      "checksum": "27113c62b54dce05ff595116237c96c338d9be417567285becd64636b26d2f5f"
-    },
-    {
-      "name": "elf arsenal",
-      "filename": "elf-arsenal_v1.6.21.elf",
-      "url": "https://github.com/aloksaurabh/elf-arsenal/releases/download/v1.6.21/elf-arsenal.elf",
-      "version": "v1.6.21",
-      "category": "Utilities & Tools",
-      "checksum": "cec800889364e4e8a4586989f27a1e31717b3b384683386b88deef9c78bc50dd"
-    },
-    {
-      "name": "Apr Emu Updater",
-      "filename": "apr_emu_updater_v2.0.6.elf",
-      "url": "https://github.com/tsuramatsu1/apr-emu-updater/releases/download/v2.0.6/apr_emu_updater_v2.0.6.elf",
-      "version": "v2.0.6",
-      "category": "Utilities & Tools",
-      "checksum": "4f04464283a6a551883e40e36b59134ecad0e38ecbb7ea89cbec3f91a3bd9122"
-    },
-    {
-      "name": "PS5 Browser App",
-      "filename": "browser_launcher_v1.0.0.elf",
-      "url": "https://github.com/KAR0218/KAR0218.github.io/releases/download/v1.0.0/browser_launcher_v1.0.0.elf",
-      "version": "v1.0.0",
-      "category": "Utilities & Tools",
-      "checksum": "8162e9c0988e0e69d506840d3ba0a239fdbc5fbea60517cfaa6f820b23cd96f4"
-    },
-    {
-      "name": "pizza hen",
-      "filename": "PIZZA-HEN_v2.00.elf",
-      "url": "https://github.com/Michele-M-Media/PIZZA-HEN/releases/download/v2.00/PIZZA-HEN-v2.00.elf",
-      "version": "v2.00",
-      "category": "System & Jailbreak",
-      "checksum": "8535d399612d61c50a528b2ae416f2fc3ccfb7480296df99c17302583fb3e345"
-    }
-  ]
-}
-=======
-{
-  "name": "Jimicao Payloads",
-  "payloads": [
-    {
       "name": "game compressor",
       "filename": "game-compressor_v1.0.4.elf",
       "url": "https://github.com/juma-sayeh/PS5-Game-Compressor/releases/download/v1.0.4/game-compressor.elf",
@@ -89,44 +34,44 @@
       "checksum": "e55e90aaade13b6e0d4316c1597ef90a21b67a06475c3e25de054224bc1e941b"
     },
     {
-      "name": "pegasus dl",
-      "filename": "pegasus_dl_v1.10.1.elf",
-      "url": "https://github.com/pegasus-ps5/pegasus-dl/releases/download/v1.10.1/pegasus_dl.elf",
-      "version": "v1.10.1",
+      "name": "apr emu updater",
+      "filename": "apr_emu_updater_v2.0.6.elf",
+      "url": "https://github.com/tsuramatsu1/apr-emu-updater/releases/download/v2.0.6/apr_emu_updater_v2.0.6.elf",
+      "version": "v2.0.6",
       "category": "Utilities & Tools",
-      "checksum": "b24fdc62fc6cad14684b214a9c5be6c1221585afbf9493e387ab90f9dee21138"
+      "checksum": "4f04464283a6a551883e40e36b59134ecad0e38ecbb7ea89cbec3f91a3bd9122"
     },
     {
-      "name": "prospero manager",
-      "filename": "ProsperoMgr_v1.1.elf",
-      "url": "https://github.com/notmaj0r/ProsperoMgr/releases/download/v1.1/ProsperoMgr.elf",
-      "version": "v1.1",
-      "category": "Utilities & Tools",
-      "checksum": "e7a6bb544adb2fb2a61aa9cc83b0ad15f70b32d7511a3de0f1fb88812f11983c"
+      "name": "pizza hen",
+      "filename": "PIZZA-HEN_v2.00.elf",
+      "url": "https://github.com/Michele-M-Media/PIZZA-HEN/releases/download/v2.00/PIZZA-HEN-v2.00.elf",
+      "version": "v2.00",
+      "category": "System & Jailbreak",
+      "checksum": "8535d399612d61c50a528b2ae416f2fc3ccfb7480296df99c17302583fb3e345"
     },
     {
       "name": "host psm relapse",
-      "filename": "Host-PSM-ReLapse_instala-host-en_v1.2.3.elf",
-      "url": "https://github.com/ps4macedo/ps51360/releases/download/relapse-v1.2.3/Host-PSM-ReLapse-v1.2.3-instala-host-en.elf",
-      "version": "v1.2.3",
+      "filename": "Host-PSM-ReLapse_instala-host-en_v1.3.0.elf",
+      "url": "https://github.com/ps4macedo/ps51360/releases/download/relapse-v1.3.0/Host-PSM-ReLapse-v1.3.0-instala-host-en.elf",
+      "version": "v1.3.0",
       "category": "Loaders",
-      "checksum": "a86791bf23c7efc5712eb6ef8df23a17b542cae07d72ca1feb0ea85b18e33c12"
+      "checksum": "a4e6b24351c111e1819f1eddcd4f6f76ffd514b3954584e111d6f84c0318ef63"
     },
     {
       "name": "host psm relapse",
-      "filename": "Host-PSM-ReLapse_instala-host-pt_v1.2.3.elf",
-      "url": "https://github.com/ps4macedo/ps51360/releases/download/relapse-v1.2.3/Host-PSM-ReLapse-v1.2.3-instala-host-pt.elf",
-      "version": "v1.2.3",
+      "filename": "Host-PSM-ReLapse_instala-host-pt_v1.3.0.elf",
+      "url": "https://github.com/ps4macedo/ps51360/releases/download/relapse-v1.3.0/Host-PSM-ReLapse-v1.3.0-instala-host-pt.elf",
+      "version": "v1.3.0",
       "category": "Loaders",
-      "checksum": "27113c62b54dce05ff595116237c96c338d9be417567285becd64636b26d2f5f"
+      "checksum": "67d58b472ec7123e121c0d29e480c3304ce737c1b593434d29c41a7868d5c657"
     },
     {
-      "name": "Webkit-Autoloader-Installer",
-      "filename": "webkit-autoloader-installer_v0.5.1.elf",
-      "url": "https://github.com/itsPLK/ps5-webkit-autoloader/releases/download/v0.5.1/webkit-autoloader-installer_v0.5.1.elf",
-      "version": "v0.5.1",
-      "category": "Loaders",
-      "checksum": "80083f76383944e1f87c2d4126e4e067cd70bd8013feb538575bc2cb08258a78"
+      "name": "ps5 browser app",
+      "filename": "browser_launcher_v1.0.0.elf",
+      "url": "https://github.com/KAR0218/KAR0218.github.io/releases/download/v1.0.0/browser_launcher_v1.0.0.elf",
+      "version": "v1.0.0",
+      "category": "Utilities & Tools",
+      "checksum": "8162e9c0988e0e69d506840d3ba0a239fdbc5fbea60517cfaa6f820b23cd96f4"
     },
     {
       "name": "elf arsenal",
@@ -137,29 +82,20 @@
       "checksum": "cec800889364e4e8a4586989f27a1e31717b3b384683386b88deef9c78bc50dd"
     },
     {
-      "name": "Apr Emu Updater",
-      "filename": "apr_emu_updater_v2.0.6.elf",
-      "url": "https://github.com/tsuramatsu1/apr-emu-updater/releases/download/v2.0.6/apr_emu_updater_v2.0.6.elf",
-      "version": "v2.0.6",
-      "category": "Utilities & Tools",
-      "checksum": "4f04464283a6a551883e40e36b59134ecad0e38ecbb7ea89cbec3f91a3bd9122"
+      "name": "webkit autoloader",
+      "filename": "webkit-autoloader-installer_v0.5.2.elf",
+      "url": "https://github.com/itsPLK/ps5-webkit-autoloader/releases/download/v0.5.2/webkit-autoloader-installer_v0.5.2.elf",
+      "version": "v0.5.2",
+      "category": "Loaders",
+      "checksum": "f990e48e8330231d2066a7b8ab6dc25fda83b2cc36cb426c472b35b33767451a"
     },
     {
-      "name": "PS5 Browser App",
-      "filename": "browser_launcher_v1.0.0.elf",
-      "url": "https://github.com/KAR0218/KAR0218.github.io/releases/download/v1.0.0/browser_launcher_v1.0.0.elf",
-      "version": "v1.0.0",
-      "category": "Utilities & Tools",
-      "checksum": "8162e9c0988e0e69d506840d3ba0a239fdbc5fbea60517cfaa6f820b23cd96f4"
-    },
-    {
-      "name": "pizza hen",
-      "filename": "PIZZA-HEN_v2.00.elf",
-      "url": "https://github.com/Michele-M-Media/PIZZA-HEN/releases/download/v2.00/PIZZA-HEN-v2.00.elf",
-      "version": "v2.00",
+      "name": "legacy jb",
+      "filename": "LegacyJB_v1.2.1.elf",
+      "url": "https://github.com/Phoenixx1202/LegacyJB/releases/download/1.2.1/LegacyJB.elf",
+      "version": "1.2.1",
       "category": "System & Jailbreak",
-      "checksum": "8535d399612d61c50a528b2ae416f2fc3ccfb7480296df99c17302583fb3e345"
+      "checksum": "7633372f39a7a6e460f3990b02cd07026f4e5591aefd2509f8c6338f03b8440b"
     }
   ]
 }
->>>>>>> c44cffa06b672bd8ad07b6eb17751c15542008c6
