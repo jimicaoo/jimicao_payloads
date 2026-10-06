@@ -10,14 +10,6 @@
       "checksum": "b24fdc62fc6cad14684b214a9c5be6c1221585afbf9493e387ab90f9dee21138"
     },
     {
-      "name": "spectrum library",
-      "filename": "SpectrumLibrary_v1.4.8.elf",
-      "url": "https://github.com/Phoenixx1202/Spectrum-Library/releases/download/1.4.8/SpectrumLibrary_1.4.8.elf",
-      "version": "1.4.8",
-      "category": "Utilities & Tools",
-      "checksum": "5d1372d48f76167e3f9e24b335cf571ea6e4b3960e6b7202d2802b0f78c3a519"
-    },
-    {
       "name": "prospero manager",
       "filename": "ProsperoMgr_v1.1.elf",
       "url": "https://github.com/notmaj0r/ProsperoMgr/releases/download/v1.1/ProsperoMgr.elf",
@@ -51,19 +43,19 @@
     },
     {
       "name": "host psm relapse",
-      "filename": "Host-PSM-ReLapse_instala-host-en_v1.3.0.elf",
-      "url": "https://github.com/ps4macedo/ps51360/releases/download/relapse-v1.3.0/Host-PSM-ReLapse-v1.3.0-instala-host-en.elf",
-      "version": "v1.3.0",
+      "filename": "Host-PSM-ReLapse_instala-host-en_v1.4.0.elf",
+      "url": "https://github.com/ps4macedo/ps51360/releases/download/relapse-v1.4.0/Host-PSM-ReLapse-v1.4.0-instala-host-en.elf",
+      "version": "v1.4.0",
       "category": "Loaders",
-      "checksum": "a4e6b24351c111e1819f1eddcd4f6f76ffd514b3954584e111d6f84c0318ef63"
+      "checksum": "4691127b390b69c0156b38251e77606b36804f6370aeb3479a6f404919872420"
     },
     {
       "name": "host psm relapse",
-      "filename": "Host-PSM-ReLapse_instala-host-pt_v1.3.0.elf",
-      "url": "https://github.com/ps4macedo/ps51360/releases/download/relapse-v1.3.0/Host-PSM-ReLapse-v1.3.0-instala-host-pt.elf",
-      "version": "v1.3.0",
+      "filename": "Host-PSM-ReLapse_instala-host-pt_v1.4.0.elf",
+      "url": "https://github.com/ps4macedo/ps51360/releases/download/relapse-v1.4.0/Host-PSM-ReLapse-v1.4.0-instala-host-pt.elf",
+      "version": "v1.4.0",
       "category": "Loaders",
-      "checksum": "67d58b472ec7123e121c0d29e480c3304ce737c1b593434d29c41a7868d5c657"
+      "checksum": "726d32786771db15b4f107ad92bba4330f3139b3e02b78d33695086341b22ca8"
     },
     {
       "name": "ps5 browser app",
