@@ -34,14 +34,6 @@
       "checksum": "4f04464283a6a551883e40e36b59134ecad0e38ecbb7ea89cbec3f91a3bd9122"
     },
     {
-      "name": "pizza hen",
-      "filename": "PIZZA-HEN_v2.00.elf",
-      "url": "https://github.com/Michele-M-Media/PIZZA-HEN/releases/download/v2.00/PIZZA-HEN-v2.00.elf",
-      "version": "v2.00",
-      "category": "System & Jailbreak",
-      "checksum": "8535d399612d61c50a528b2ae416f2fc3ccfb7480296df99c17302583fb3e345"
-    },
-    {
       "name": "host psm relapse",
       "filename": "Host-PSM-ReLapse_instala-host-en_v1.4.0.elf",
       "url": "https://github.com/ps4macedo/ps51360/releases/download/relapse-v1.4.0/Host-PSM-ReLapse-v1.4.0-instala-host-en.elf",
@@ -56,6 +48,30 @@
       "version": "v1.4.0",
       "category": "Loaders",
       "checksum": "726d32786771db15b4f107ad92bba4330f3139b3e02b78d33695086341b22ca8"
+    },
+    {
+      "name": "webkit autoloader",
+      "filename": "webkit-autoloader-installer_v0.6.0.elf",
+      "url": "https://github.com/itsPLK/ps5-webkit-autoloader/releases/download/v0.6.0/webkit-autoloader-installer_v0.6.0.elf",
+      "version": "v0.6.0",
+      "category": "Loaders",
+      "checksum": "b4dc090ea7f22529d507e684909ab4524a21a6a26777a425bf787dbffc5b419c"
+    },
+    {
+      "name": "pizza hen",
+      "filename": "PIZZA-HEN_v2.00.elf",
+      "url": "https://github.com/Michele-M-Media/PIZZA-HEN/releases/download/v2.00/PIZZA-HEN-v2.00.elf",
+      "version": "v2.00",
+      "category": "System & Jailbreak",
+      "checksum": "8535d399612d61c50a528b2ae416f2fc3ccfb7480296df99c17302583fb3e345"
+    },
+    {
+      "name": "legacy jb",
+      "filename": "LegacyJB_v1.2.1.elf",
+      "url": "https://github.com/Phoenixx1202/LegacyJB/releases/download/1.2.1/LegacyJB.elf",
+      "version": "1.2.1",
+      "category": "System & Jailbreak",
+      "checksum": "7633372f39a7a6e460f3990b02cd07026f4e5591aefd2509f8c6338f03b8440b"
     },
     {
       "name": "ps5 browser app",
@@ -74,20 +90,36 @@
       "checksum": "cec800889364e4e8a4586989f27a1e31717b3b384683386b88deef9c78bc50dd"
     },
     {
-      "name": "webkit autoloader",
-      "filename": "webkit-autoloader-installer_v0.5.2.elf",
-      "url": "https://github.com/itsPLK/ps5-webkit-autoloader/releases/download/v0.5.2/webkit-autoloader-installer_v0.5.2.elf",
-      "version": "v0.5.2",
-      "category": "Loaders",
-      "checksum": "f990e48e8330231d2066a7b8ab6dc25fda83b2cc36cb426c472b35b33767451a"
+      "name": "ps5 self pager",
+      "filename": "ps5-self-pager-full-system_v1.2.elf",
+      "url": "https://github.com/idlesauce/ps5-self-pager/releases/download/v1.2/ps5-self-pager-full-system.elf",
+      "version": "v1.2",
+      "category": "Utilities & Tools",
+      "checksum": "fb498d4112611619150281e0c44afbd09f144c09eaca3ab3f5b306b39450d13a"
     },
     {
-      "name": "legacy jb",
-      "filename": "LegacyJB_v1.2.1.elf",
-      "url": "https://github.com/Phoenixx1202/LegacyJB/releases/download/1.2.1/LegacyJB.elf",
-      "version": "1.2.1",
-      "category": "System & Jailbreak",
-      "checksum": "7633372f39a7a6e460f3990b02cd07026f4e5591aefd2509f8c6338f03b8440b"
+      "name": "ps5 self pager",
+      "filename": "ps5-self-pager-game_v1.2.elf",
+      "url": "https://github.com/idlesauce/ps5-self-pager/releases/download/v1.2/ps5-self-pager-game.elf",
+      "version": "v1.2",
+      "category": "Utilities & Tools",
+      "checksum": "73d94fea5de9086cac26385c117a0b3098890c447d67536877fb7b51c9145aac"
+    },
+    {
+      "name": "ps5 self pager",
+      "filename": "ps5-self-pager-shellcore_v1.2.elf",
+      "url": "https://github.com/idlesauce/ps5-self-pager/releases/download/v1.2/ps5-self-pager-shellcore.elf",
+      "version": "v1.2",
+      "category": "Utilities & Tools",
+      "checksum": "2b500bc356b5bcfca5c3e5187bcec0a37c80ed05e39348b8f06bd2e5a6f3342b"
+    },
+    {
+      "name": "ps5 self pager",
+      "filename": "ps5-self-pager-system-common-lib_v1.2.elf",
+      "url": "https://github.com/idlesauce/ps5-self-pager/releases/download/v1.2/ps5-self-pager-system-common-lib.elf",
+      "version": "v1.2",
+      "category": "Utilities & Tools",
+      "checksum": "a86c3e69ed38656310b41af4f9221bdb2264ff4daf93fb4c2515fd54a216b701"
     }
   ]
 }
